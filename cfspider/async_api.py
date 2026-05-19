@@ -295,6 +295,10 @@ async def arequest(
             )
             return AsyncCFSpiderResponse(response)
     
+    # 支持 WorkersManager 对象
+    if hasattr(cf_proxies, 'url'):
+        cf_proxies = getattr(cf_proxies, 'url', None) or str(cf_proxies)
+
     # cf_workers=False：使用普通代理
     if not cf_workers:
         proxy_url = cf_proxies

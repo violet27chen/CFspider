@@ -21,6 +21,7 @@
 > - 国内封锁力度加大，`workers.dev` 域名频繁被污染
 > - VLESS/WebSocket 连接随时被 Reset，掉线频繁
 > - 自定义域名绑定后也难逃周期性不可用
+> - **CF 主动封禁 VLESS Workers（报错 1101）**：Cloudflare 检测到代理行为后直接封禁 Worker，内部预览正常但外部访问返回 1101，账号存在被封风险
 > - CF 本身会封禁滥用代理的账号
 >
 > **推荐切换到真正稳定的 VPN：[VPN Cheap 点此注册（邀请码自动填入）](https://siusn-sisjxl.top/#/register?code=aVDxxRS0)**
