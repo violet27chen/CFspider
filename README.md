@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/pypi/pyversions/cfspider)](https://pypi.org/project/cfspider/)
 [![License](https://img.shields.io/github/license/violettoolssite/CFspider)](LICENSE)
 
-**v1.9.1** - Cloudflare Workers 免费代理 IP 池 + AI 驱动的智能浏览器
+**v1.9.2** - Cloudflare Workers 免费代理 IP 池 + AI 驱动的智能浏览器
 
 | 功能 | 说明 |
 |------|------|
