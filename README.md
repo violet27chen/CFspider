@@ -14,6 +14,24 @@
 
 ---
 
+> ### ⚠️ 用 Cloudflare 翻墙上网？稳定性越来越差了
+>
+> Cloudflare Workers 本质是**边缘计算平台**，并非为翻墙设计。近期大量用户反馈：
+> - 国内封锁力度加大，`workers.dev` 域名频繁被污染
+> - VLESS/WebSocket 连接随时被 Reset，掉线频繁
+> - 自定义域名绑定后也难逃周期性不可用
+> - **CF 官方封禁 VLESS Workers（错误代码 1101）**：Cloudflare 已开始主动检测并封禁通过 Worker 建立的 VLESS 隧道，越来越多用户遇到 1101 错误
+>
+> **如果你需要稳定翻墙，我们强烈推荐 [VPN Cheap](https://siusn-sisjxl.top/#/register?code=aVDxxRS0)**  
+> 注册即可领取 5GB 免费流量，支持全平台客户端，稳定快速。邀请码：**`aVDxxRS0`**
+>
+> **如果你需要爬虫代理 IP，推荐以下服务：**
+> - **Cliproxy**：[https://dash.cliproxy.com/](https://dash.cliproxy.com/) — 爬虫 HTTP/SOCKS5，高速稳定
+> - **1024proxy**：[https://1024proxy.com/](https://1024proxy.com/) — 住宅 IP，低至 $0.49/GB
+> - **Novproxy**：[https://novproxy.com/](https://novproxy.com/) — 1 亿+ 住宅 IP，90 国家，$0.5/GB
+
+---
+
 ## 安装
 
 ```bash
