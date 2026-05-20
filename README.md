@@ -350,6 +350,8 @@ r.js_result     # js_eval 执行结果（browser=True 时）
 
 将第三方代理 IP 服务无缝集成至 CFspider，结合 CloakBrowser 反检测能力，实现高匿名、高成功率的自动化数据采集。
 
+> 🎁 **Thordata 专属优惠码：CFspider** — 输入可获 10% 折扣
+
 ![Thordata 代理集成方案](IP质量检测.png)
 
 ### Thordata 住宅代理集成
