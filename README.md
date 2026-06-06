@@ -1,4 +1,4 @@
-> **📌 Note:** This repository has been migrated from [violet27chen/CFspider](https://github.com/violet27chen/CFspider) to [violet27chen/CFspider](https://github.com/violet27chen/CFspider). The old account is no longer maintained.
+> **📌 Note:** This repository has been migrated from [violettoolssite/CFspider](https://github.com/violettoolssite/CFspider) to [violet27chen/CFspider](https://github.com/violet27chen/CFspider). The old account is no longer maintained.
 
 # CFspider
 
