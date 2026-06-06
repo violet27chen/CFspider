@@ -1,9 +1,11 @@
+> **📌 Note:** This repository has been migrated from [violet27chen/CFspider](https://github.com/violet27chen/CFspider) to [violet27chen/CFspider](https://github.com/violet27chen/CFspider). The old account is no longer maintained.
+
 # CFspider
 
 [![PyPI version](https://img.shields.io/pypi/v/cfspider)](https://pypi.org/project/cfspider/)
 [![Python](https://img.shields.io/pypi/pyversions/cfspider)](https://pypi.org/project/cfspider/)
-[![License](https://img.shields.io/github/license/violettoolssite/CFspider)](LICENSE)
-[![Update VLESS Configs](https://github.com/violettoolssite/CFspider/actions/workflows/update-vless-configs.yml/badge.svg)](https://github.com/violettoolssite/CFspider/actions/workflows/update-vless-configs.yml)
+[![License](https://img.shields.io/github/license/violet27chen/CFspider)](LICENSE)
+[![Update VLESS Configs](https://github.com/violet27chen/CFspider/actions/workflows/update-vless-configs.yml/badge.svg)](https://github.com/violet27chen/CFspider/actions/workflows/update-vless-configs.yml)
 
 ---
 
@@ -421,7 +423,7 @@ print(r.text)
 > - 模拟真实用户地理位置
 > - 结合 CloakBrowser 实现**指纹 + IP** 双重伪装
 
-**国内无法直连？** 使用 [`two_proxy`](https://github.com/violettoolssite/CFspider#%E5%8F%82%E6%95%B0%E5%88%97%E8%A1%A8) 双层代理：`cfspider.get(url, proxies=proxies, two_proxy="host:port:user:pass")`
+**国内无法直连？** 使用 [`two_proxy`](https://github.com/violet27chen/CFspider#%E5%8F%82%E6%95%B0%E5%88%97%E8%A1%A8) 双层代理：`cfspider.get(url, proxies=proxies, two_proxy="host:port:user:pass")`
 
 **专属优惠码：CFspider**（输入可获 10% 折扣），[👉 点击注册](https://dashboard.thordata.com/zh/register?invitation_code=CSSNEZF2)
 
@@ -502,6 +504,6 @@ python cloak_test.py
 
 ## 链接
 
-- GitHub: https://github.com/violettoolssite/CFspider
+- GitHub: https://github.com/violet27chen/CFspider
 - PyPI: https://pypi.org/project/cfspider/
 - 视频教程: https://b23.tv/1uzOf7M
